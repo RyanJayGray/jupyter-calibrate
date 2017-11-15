@@ -1,2 +1,2 @@
 # jupyter-calibrate
-A Jupyter Notebook to display microphotograph dimensions in microns
+A Jupyter Notebook to display microphotograph dimensions in micrometers
